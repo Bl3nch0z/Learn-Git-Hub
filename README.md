@@ -1,2 +1,2 @@
 # Learn-Git-Hub
-Learning Git Hun
+Learning Git Hub
